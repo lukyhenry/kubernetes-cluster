@@ -17,7 +17,7 @@ To destroy environment run this command:
 ```
 terraform destroy
 ```
-That's it. Isn't simple, is it?
+That's it. Is it simple, isn't?
 
 ## Automation
 To ease deployment, provided a shell script that can automate deployment and setup on Kubernetes.
